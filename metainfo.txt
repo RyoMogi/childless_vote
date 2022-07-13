@@ -1,0 +1,27 @@
+Meta information of our data:
+
+1. The data was downloaded from the European Social Survey (https://www.europeansocialsurvey.org/),
+- ESS1e06_6.sav
+- ESS2e03_6.sav
+- ESS2IT.sav
+- ESS3e03_7.sav
+- ESS4e04_5.sav
+- ESS4AT.sav
+- ESS4LT.sav
+- ESS5e03_4.sav
+- ESS5ATe1_1.sav
+- ESS6e02_4.sav
+- ESS7e02_2.sav
+- ESS8e02_2.sav
+- ESS9e03_1.sav
+
+2. The variables we used are following:
+"agea": Age of the respondent
+"vote": Did you vote for the last national election?
+"chldhm" & "chldhhe": fertility information
+"rshipaX": relationship of the household member
+"yrbrnX": birth year of the household member
+"gndr": sex of the respondent
+"edulvla" & "edulvlb": educational level of the respondent
+"cntry": country of residence of the respondent
+"essround": the round of the ESS survey
